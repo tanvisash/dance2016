@@ -3,7 +3,7 @@
 # # # # # # # #
 
 # Basic
-name:               "Sasha"
+name:               "Sasha & Team"
 
 # URL
 baseurl:            "/dance2016/"
@@ -16,9 +16,9 @@ markdown:           rdiscount
 # Navigation
 nav:
   - name:           "About"
-    href:           "//gfjaru.github.io/Kiko/about"
-  - name:           "Download"
-    href:           "//github.com/gfjaru/Kiko/releases"
+    href:           "/dance2016/about"
+  - name:           "Contact"
+    href:           "/dance2016/contact"
 
 # Sass
 sass:
